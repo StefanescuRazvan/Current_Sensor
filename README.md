@@ -7,3 +7,9 @@ This project is a portable current monitoring system that measures and displays 
 - **Real-Time Monitoring**: Displays current and power consumption on a TFT display.
 - **Bluetooth Connectivity**: Transmits data to a mobile app for graphical visualization.
 - **Custom Mobile App**: Built using MIT App Inventor, the app plots current waveforms over time.
+
+## Project Images
+### Circuit Setup
+![Circuit Setup](assets/Breadboard.jpg)
+### Mobile App Interface
+![Mobile App](assets/Graph.jpg)
